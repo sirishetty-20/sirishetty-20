@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Siri Shetty K<br><br><br>🎓 Final-year CSE student | 📊 Data Analyst & Data Science Enthusiast | 🤖 AI / ML Explorer<br><br><br>🚀 About Me<br><br>* 📊 Interested in working with data to find insights and patterns<br>* 🤖 Hands-on experience with Machine Learning & basic Deep Learning projects<br>* 📈 Completed internships in Data Science & AI<br>* 🏆 Co-authored and presented a paper at IEEE ICCDS-2025<br>* 🎯 Actively preparing for Data Analyst / Junior Data Scientist roles<br><br><br>🔭 I’m currently working on<br><br>* 🧠 Data Science & AI projects using Python & ML algorithms<br>* 📊 Building interactive dashboards using Power BI<br>* 🛠️ Real-world data preprocessing & analysis pipelines<br><br><br>👯 I’m looking to collaborate on<br><br>* 🤝 Open-source Data Science / ML projects<br>* 📊 Data analytics & visualization projects<br>* 🤖 Research-based AI projects (NLP / Computer Vision)<br><br><br><br>🤝 I’m looking for help with<br><br>* 🧠 Advanced Deep Learning & optimization techniques<br>* 🚀 Deploying ML models in real-world applications<br>* 📢 Improving data storytelling skills<br><br><br><br>🌱 I’m currently learning<br><br>* 📊 Advanced Data Analytics & Visualization<br>* ⚙️ Model tuning & performance optimization<br>* 🗄️ SQL optimization & large dataset handling<br><br><br><br> 💬 Ask me about<br><br>* 🐍 Python (Pandas, NumPy, scikit-learn)<br>* 🤖 Machine Learning (Random Forest, KNN, Logistic Regression)<br>* 🧠 Deep Learning (Keras, MobileNet, OpenCV)<br>* 📊 Data Analysis, EDA & Power BI<br><br><br><br>⚡ Fun fact<br><br>* 🚀 Built a deep learning model with 97% accuracy and presented it at an IEEE conference<br><br><br><br> 🛠️ Tech Stack<br><br>Languages:<br>🐍 Python | 🗄️ SQL | 🌐 HTML | 🎨 CSS<br><br>Data Science & ML:<br>📊 Pandas | 🔢 NumPy | 🤖 scikit-learn | 🧠 Keras | 👁️ OpenCV<br><br>Visualization & Tools:<br>📊 Power BI | 📑 Excel | 📈 Matplotlib | 📓 Jupyter Notebook<br><br>Other Tools:<br>🔧 Git | 💻 GitHub<br><br><br><br>📌 Featured Projects<br><br> 🐝 Beehive Health Classification<br><br>* 🧠 Built a MobileNet-based deep learning model to classify 6 beehive health conditions<br>* 📈 Achieved 97% accuracy and compared optimizers (Adam, Nadam, SGD)<br>* 🏆 Presented at an IEEE international conference<br><br><br>🩺 Diabetes Prediction System<br><br>* 🤖 Built a machine learning model using Random Forest, KNN, and Naive Bayes<br>* 📊 Used healthcare dataset with 768 records and 8 features<br>* 📈 Achieved best accuracy of 75% with Random Forest<br>* 🛠️ Performed data preprocessing and EDA<br><br><br><br> 🌸 Iris Flower Classification<br><br>* 🤖 Built a Logistic Regression model to classify iris flowers<br>* 🌼 Classified 3 species: Setosa, Versicolor, Virginica<br>* 📏 Used sepal and petal features for prediction<br>* 📊 Evaluated model using train-test split and performance metrics<br><br><br><br> 📊 GitHub Stats<br><br>![Siri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirishetty-20\&show_icons=true)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirishetty-20\&layout=compact)<br><br><br>🌐 Connect with Me<br><br>* 💼 LinkedIn: https://linkedin.com/in/siri-shetty-k-ab5306267<br>* 💻 GitHub: https://github.com/sirishetty-20<br>* 📧 Email: [sirimagadh929@gmail.com](mailto:sirimagadh929@gmail.com)<br><br><br><br>⭐ “Turning data into decisions, and ideas into impactful solutions.”<br>
 
-<!--
-**sirishetty-20/sirishetty-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siri Shetty K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirimagadh929@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sirishetty-20&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sirishetty-20&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sirishetty-20&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sirishetty-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sirishetty-20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=sirishetty-20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
