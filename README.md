@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 Hi, I'm Siri Shetty K, a final-year CSE student passionate about 📊 data analysis and 🤖 machine learning, with hands-on experience through internships and real-world projects.<br>📈 Built impactful solutions including a 🐝 MobileNet-based deep learning model with 97% accuracy (presented at IEEE ICCDS-2025), along with ML projects like 🩺 diabetes prediction and 🌸 iris flower classification using Python, SQL, and tools like Pandas, scikit-learn, Keras, and Power BI.<br>💡 Skilled in transforming raw data into actionable insights, improving decision-making, and identifying patterns that solve real-world problems.<br>🎯 Currently focused on strengthening Machine learning, Deep learning,data analytics, model optimization, and real-world problem solving, aiming to contribute as a Data Analyst / Junior Data Scientist.
+# 💫 About Me
+
+👋 Hi, I'm **Siri Shetty K**, a **Computer Science graduate** passionate about **Software Development, Data Analytics, Machine Learning, and Artificial Intelligence**.
+
+💻 I have hands-on experience building real-world projects using **Python, SQL, HTML, CSS, JavaScript, Pandas, NumPy, scikit-learn, TensorFlow/Keras, Power BI, and Excel**. I also have a **basic understanding of REST APIs and JSON**, with experience integrating APIs into Python applications and understanding client-server communication.
+
+🚀 My projects include:
+
+* 🐝 An **IEEE-published MobileNet-based beehive state classification system** achieving **97% accuracy**.
+* 🩺 A **Diabetes Prediction System** using machine learning algorithms.
+* 🌸 An **Iris Flower Classification** model for predictive analytics.
+
+💡 I enjoy solving real-world problems by writing clean, efficient code and building data-driven solutions. I am continuously enhancing my skills in **Software Development, Machine Learning, Deep Learning, Data Analytics, Web Development, API Integration, and Model Optimization**.
+
+🎯 I am currently seeking opportunities as a **Software Developer, Integration Engineer, Data Analyst, or Junior Data Scientist**, where I can apply my technical skills, collaborate with talented teams, and contribute to building scalable, impactful solutions while continuously learning and growing.
+
 
 
 # 💻 Tech Stack:
