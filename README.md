@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Siri Shetty K**, a **Computer Science graduate** passionate about **Software Development, Data Analytics, Machine Learning, and Artificial Intelligence**.
 
-💻 I have hands-on experience building real-world projects using **Python, SQL, HTML, CSS, JavaScript, Pandas, NumPy, scikit-learn, TensorFlow/Keras, Power BI, and Excel**. I also have a **basic understanding of REST APIs and JSON**, with experience integrating APIs into Python applications and understanding client-server communication.
+💻 I have hands-on experience building real-world projects using **Python, SQL, HTML, CSS, JavaScript, Pandas, NumPy, scikit-learn , Power BI, and Excel**. I also have a **basic understanding of REST APIs and JSON**, with experience integrating APIs into Python applications and understanding client-server communication.
 
 🚀 My projects include:
 
