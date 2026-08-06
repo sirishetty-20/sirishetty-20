@@ -12,7 +12,7 @@
 
 💡 I enjoy solving real-world problems by writing clean, efficient code and building data-driven solutions. I am continuously enhancing my skills in **Software Development, Machine Learning, Deep Learning, Data Analytics, Web Development, API Integration, and Model Optimization**.
 
-🎯 I am currently seeking opportunities as a **Software Developer, Integration Engineer, Data Analyst, or Junior Data Scientist**, where I can apply my technical skills, collaborate with talented teams, and contribute to building scalable, impactful solutions while continuously learning and growing.
+🎯 I am currently seeking opportunities as a **Software Developer, Integration Engineer, Data Analyst,  Junior Data Scientist**, where I can apply my technical skills, collaborate with talented teams, and contribute to building scalable, impactful solutions while continuously learning and growing.
 
 
 
